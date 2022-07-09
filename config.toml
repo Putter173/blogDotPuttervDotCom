@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Putter`s Blog'
+theme = "newsroom"
+
+[params]
+disableDarkMode = true
