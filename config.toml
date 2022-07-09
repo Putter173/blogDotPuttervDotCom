@@ -1,4 +1,4 @@
-baseURL = 'https://blog.putterv.com'
+baseURL = 'https://zippy-sunshine-f9130f.netlify.app'
 languageCode = 'en-us'
 title = 'Putter`s Blog'
 theme = "newsroom"
