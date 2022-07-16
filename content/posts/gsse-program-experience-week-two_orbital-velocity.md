@@ -1,7 +1,7 @@
 ---
 title: "Gsse Program Experience Week Two - Orbital Velocity"
 date: 2022-07-16T12:22:22+07:00
-draft: true
+draft: false
 image: postTwo.jpeg
 ---
 
