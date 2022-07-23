@@ -63,4 +63,33 @@ image: postThree.jpg
 </table>
 {{< /rawhtml >}}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As you can see his paintings and sculpture tends to either have a similiar sillowet of a dad bod or be body-less. He also plays around a lot with the use of textures and colors within his artworks.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As you can see his paintings and sculpture tends to either have a similiar sillowet of a dad bod or be body-less. He also plays around a lot with the use of textures and colors within his artworks. We all looked through the exibition rather quickly because to be completely truthful to you, dear reader, none of us are really art aficionados. I mean some were, so I may not speak for everyone. Anyhow, being in an exitbition did not hamper our joy and we all had some fun.
+
+{{< rawhtml >}}
+<table style="box-shadow: none;">
+  <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/37208FE8-F666-403F-9242-613BB6D930F9.JPG" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3637.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+   <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3765.JPG" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3647.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+   <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3713.JPG" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/S__80347142.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+</table>
+{{< /rawhtml >}}
