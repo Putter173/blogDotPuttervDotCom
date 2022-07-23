@@ -85,7 +85,7 @@ image: postThree.jpg
   </tr>
    <tr style="background-color: transparent;">
     <td>
-        <img src="/images/IMG_3713.JPG" style="display: inline-block; width: 100%;">
+        <img src="/images/IMG_3713.jpg" style="display: inline-block; width: 100%;">
     </td>
     <td>
         <img src="/images/S__80347142.jpg" style="display: inline-block; width: 100%;">
