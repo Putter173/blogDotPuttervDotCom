@@ -10,4 +10,57 @@ image: postThree.jpg
 
 ## First Field Trip of the Program!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since this class is the first class held outside of our usual Rangsit campus, I reseach about the professor, Professor Micheal Hornblow. Seeing his background he sure measure up to expectations. Really fun guy and a great time within his lecture. Of course, we started off the day with another lecture–it was about "Social Change in Art and Design" by the way. Nothing much of note, other than there was a guest speaker who (if I recalled correctly) co-founded the Bangkok Arts and Culture Center–BACC for short. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Since this class is the first class held outside of our usual Rangsit campus, I reseached about the professor, Professor Micheal Hornblow. Seeing his background he sure measure up to expectations. Really fun guy and a great time within his lecture. Of course, we started off the day with another lecture–it was about "Social Change in Art and Design" by the way. Nothing much of note, other than there was a guest speaker who (if I recalled correctly) co-founded the Bangkok Arts and Culture Center–BACC for short. So that was cool.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When the afternoon rolls around, we set off to River City which is an "Arts & Antiques is a shopping center" we set of the see an exibition called "I need a life coach" by the comedian Udom Taephanich more commonly known by his nickname Note. There was some "Artistic" liberties with his artworks, here are some that I took photos of:
+
+{{< rawhtml >}}
+<table style="box-shadow: none;">
+  <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3595.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3597.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+     <td>
+        <img src="/images/IMG_3598.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+  <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3641.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3631.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+     <td>
+        <img src="/images/IMG_3611.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+  <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3624.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3627.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+     <td>
+        <img src="/images/IMG_3608.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+  <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3605.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3606.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+     <td>
+        <img src="/images/IMG_3607.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+</table>
+{{< /rawhtml >}}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As you can see his paintings and sculpture tends to either have a similiar sillowet of a dad bod or be body-less. He also plays around a lot with the use of textures and colors within his artworks.
