@@ -93,3 +93,42 @@ image: postThree.jpg
   </tr>
 </table>
 {{< /rawhtml >}}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After River City, we went off for an adventure the a historic neighbourhood in Bangkok known as "Talat Noi". We went there to explore it's community the impact sociatal change and art within the area. It was a fun trip that only thing is that, my roommate was practically dying in the sun. And everyone was melting like a popsicle in Arizona.
+
+{{< rawhtml >}}
+<table style="box-shadow: none;">
+  <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3719.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3728.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+    </tr>
+   <tr style="background-color: transparent;">
+        <td>
+        <img src="/images/IMG_3732.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3737.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+   <tr style="background-color: transparent;">
+    <td>
+        <img src="/images/IMG_3739.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/IMG_3742.jpg" style="display: inline-block; width: 100%;">
+    </td> 
+    </tr>
+   <tr style="background-color: transparent;">
+        <td>
+        <img src="/images/IMG_3745.jpg" style="display: inline-block; width: 100%;">
+    </td>
+    <td>
+        <img src="/images/9D8B2567-A222-47FD-85E4-F4541BFCF088.JPG" style="display: inline-block; width: 100%;">
+    </td> 
+  </tr>
+</table>
+{{< /rawhtml >}}
