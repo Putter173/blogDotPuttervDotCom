@@ -1,5 +1,5 @@
 ---
-title: "GSSE Program Experience Week 1 - Orienting One's Mind"
+title: "GSSE Program Experience Week One - Orienting One's Mind"
 date: 2022-07-08T14:52:22+07:00
 draft: false
 image: postOne.jpg

@@ -1,5 +1,5 @@
 ---
-title: "Gsse Program Experience Week Four - the Field Trip Week"
+title: "GSSE Program Experience Week Four - the Field Trip Week"
 date: 2022-07-30T20:12:47+07:00
 image: postFour.jpg
 ---
