@@ -43,6 +43,10 @@ image: postSix.jpg
 
 ***
 
+{{< rawhtml >}}
+<img src="/images/landmark81.jpg" style="width: 100%;" >
+{{< /rawhtml >}}
+
 ## Cities as Theaters: Dependency's Architecture
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Urbanisation concentrates this performance. Rural migrants arrive seeking opportunity but find precarious work, rising rent, limited mobility. City dwellers shoulder debt and competition. Governments celebrate infrastructure and foreign investment as progress, rarely asking who benefits.
@@ -66,6 +70,10 @@ image: postSix.jpg
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**But here's the critical question:** Who decides what "enough" is? If degrowth means the poor should accept less while elites maintain comfort, it becomes another tool of oppression. If post-development romanticizes poverty as "authentic," it perpetuates inequality under a different name. The value of these frameworks isn't in their prescriptions but in forcing us to ask: **What do we actually need? What makes life meaningful here? Who benefits from calling this "development"?**
 
 ***
+
+{{< rawhtml >}}
+<img src="/images/unitedNationsHeadquarters.jpg" style="width: 100%;" >
+{{< /rawhtml >}}
 
 ## Purpose and Power
 
