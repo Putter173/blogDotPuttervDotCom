@@ -3,6 +3,13 @@ title: "Nobody Wins: Performing Progress in a Globalized Southeast Asia"
 date: 2025-11-09T00:29:20+07:00
 image: postSix.jpg
 ---
+{{< rawhtml >}}
+<style>
+    strong {
+        font-weight: 700;
+    }    
+</style>
+{{< /rawhtml >}}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drive through any major city in Southeast Asia today—Bangkok, Jakarta, Manila, Kuala Lumpur—and you will see the same thing: modernized glass towers that could belong anywhere from Singapore to Houston. The people may speak different languages, but the architecture feels identical. This sameness is deliberate. It signals that we have arrived, that we are "developed," that we are on the path of progress.
 
